@@ -47,3 +47,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shindenamdev7&" alt="Shindenamdev" /></p>
 
+![Snake animation](https://github.com/Shindenamdev/Shindenamdev/blob/output/github-contribution-grid-snake.svg)
+
